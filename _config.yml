@@ -1,0 +1,12 @@
+title: shape of stories 📚
+description: >-
+  A Kurt Vonnegut framework.
+
+twitter_username: dancherp
+github_username: dan-zheng
+
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-feed
